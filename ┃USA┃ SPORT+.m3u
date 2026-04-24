@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ ESPN HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858554&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ ESPN 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858552&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ ESPN U HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858550&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ ESPN NEWS HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858551&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ ESPN SEC NETWORK HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858549&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ FOX SPORTS 1 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858547&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ FOX SPORTS 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858555&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ FOX SOCCER PLUS HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858546&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ FOX SPORTS RACING
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858544&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BEIN SPORTS HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858543&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BEIN SPORTS HD [ESPANOL]
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858541&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BEIN SPORTS LA LIGA HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858540&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BEIN SPORTS XTRA HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858542&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ CBS SPORTS NETWORK HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858539&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ FUBO SPORTS NETWORK HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858538&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ MONUMENTAL SPORTS NETWORK HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858537&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ ELEVEN SPORTS HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858536&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ NFL NETWORK
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858535&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ NFL CHANNEL HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858534&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ NBA TV HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858533&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ NBA BET HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858532&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ MLB NETWORK HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858531&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ MLB STRIKE ZONE HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858530&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ NHL NETWORK HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858529&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ UFC CHANNEL HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858528&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ UFC FIGHT PASS 24/7 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858527&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ FIGHT NETWORK HDF
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858526&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ WWE HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858525&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ GOL TV HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858524&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ TENNIS CHANNEL HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858523&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ TENNIS CHANNEL 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858522&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ GOLF CHANNEL HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858521&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BILLIARD TV HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858520&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ POKER GO HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858519&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ STADIUM HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858517&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ ALTITUDE SPORTS HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858514&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ MSG HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858647&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ MSG 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858646&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ MSG PLUS HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858645&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ MSG 2 PLUS HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858644&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ MASN HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858649&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ MASN 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858648&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ NESN HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858643&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ NESN PLUS HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858642&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BIG TEN NETWORK HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858641&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BIG TEN NETWORK 2 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858640&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BIG TEN NETWORK 3 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858639&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BIG TEN NETWORK 4 HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858638&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS ARIZONA HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858631&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS ARIZONA EXTRA HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858632&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS DETROIT HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858628&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS DETROIT PLUS HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858635&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS DETROIT EXTRA HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858637&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS INDIANA HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858624&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS INDIANA EXTRA HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858623&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS MIDWEST HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858621&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS MIDWEST PLUS HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858620&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS OHIO HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858617&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS OHIO EXTRA HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858616&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS OKLAHOMA HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858615&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS OKLAHOMA PLUS
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858634&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS SOUTH WEST DALLAS HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858608&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS SOUTHWEST DALLAS EXTRA HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858636&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS SOUTH HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858612&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS SOUTH EXTRA HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858633&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS NORTH EXTRA HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858627&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS FLORIDA HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858626&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS CAROLINA HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858630&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS CINCINNATI HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858629&extension=ts
+#EXTINF:-1 group-title="┃USA┃ SPORT+",┃USA┃ BALLY SPORTS GREAT LAKES HD
+http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=858625&extension=ts
